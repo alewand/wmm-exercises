@@ -1,0 +1,12 @@
+inoise_gaussian_3: 27.08
+noise_gaussian_3: 28.48
+inoise_median_3: 27.67
+noise_median_3: 27.06
+inoise_gaussian_5: 26.04
+noise_gaussian_5: 26.59
+inoise_median_5: 24.48
+noise_median_5: 24.37
+inoise_gaussian_7: 24.93
+noise_gaussian_7: 25.17
+inoise_median_7: 23.67
+noise_median_7: 23.63
