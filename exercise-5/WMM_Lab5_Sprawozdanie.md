@@ -141,7 +141,7 @@ Dokonać konwersji z RGB do YUV i obliczyć entropię dla składowych YUV. Wyśw
 ![U](./output/image_U.png)
 
 ### V
-![Y](./output/image_V.png)
+![V](./output/image_V.png)
 
 Entropia Y: **7.4490**
 
