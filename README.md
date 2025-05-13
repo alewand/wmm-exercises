@@ -6,3 +6,5 @@
 # Zadanie IV - Podstawowe przetwarzanie obrazów
 
 # Zadanie V - Statystyczne właściwości obrazów
+
+# Zadanie VI - Transmisja danych multimedialnych w sieciach szerokopasmowych
