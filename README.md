@@ -3,6 +3,8 @@
 
 # Zadanie I - Analiza częstotliwościowa sygnałów czasu dyskretnego
 
+# Zadanie II - Filtracja, efekty dźwiękowe i synteza dźwięku
+
 # Zadanie IV - Podstawowe przetwarzanie obrazów
 
 # Zadanie V - Statystyczne właściwości obrazów
