@@ -10,3 +10,5 @@
 # Zadanie V - Statystyczne właściwości obrazów
 
 # Zadanie VI - Transmisja danych multimedialnych w sieciach szerokopasmowych
+
+# Zadanie VII - Analiza obrazu – detekcja twarzy
